@@ -83,7 +83,7 @@
   </tbody>
 </table><br>
 
-> 🔍 Explore more at [My Repositories](https://github.com/MozammelHaq?tab=repositories) <br><br>
+> 🔍 Explore more at [My Repositories](https://github.com/Mozammel-Haq?tab=repositories) <br><br>
 
 
 ## 📚 Currently Learning <br><br>
