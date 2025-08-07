@@ -40,7 +40,7 @@
 
 ## 🚀 Highlight Projects <br><br>
 
-<table width="100%">
+<table width="100%" cell-padding="1">
   <br>
   <thead>
     <tr>
@@ -56,28 +56,28 @@
       <td><b>SkillShareHub</b></td>
       <td>A skill sharing platform for uploading and downloading skills</td>
       <td>HTML, CSS, JavaScript</td>
-      <td><a href="#">🔗 Preview</a></td>
+      <td><a href="#"> Preview</a></td>
       <td><a href="https://github.com/MozammelHaq/SkillShareHub">Repo</a></td>
     </tr>
     <tr>
       <td><b>Pathao UI Clone</b></td>
       <td>UI replica of a ride-sharing app</td>
       <td>HTML, CSS</td>
-      <td><a href="#">🔗 Preview</a></td>
+      <td><a href="#"> Preview</a></td>
       <td><a href="https://github.com/MozammelHaq/Pathao-Clone">Repo</a></td>
     </tr>
     <tr>
       <td><b>Alibaba UI Clone</b></td>
       <td>Mini project mimicking Alibaba interface</td>
       <td>HTML, CSS</td>
-      <td><a href="#">🔗 Preview</a></td>
+      <td><a href="#"> Preview</a></td>
       <td><a href="https://github.com/MozammelHaq/Alibaba-Clone"> Repo</a></td>
     </tr>
     <tr>
       <td><b>Prime Number Game</b></td>
       <td>A fun number game built using vanilla JavaScript</td>
       <td>JavaScript</td>
-      <td><a href="#">🔗 Preview</a></td>
+      <td><a href="#"> Preview</a></td>
       <td><a href="https://github.com/MozammelHaq/Prime-Number-Game"> Repo</a></td>
     </tr>
   </tbody>
