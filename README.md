@@ -5,11 +5,11 @@
 
 ## 👨‍💻 About Me <br><br>
 
-- 💻 Web Application Development trainee at **IDB-BISEW IT Scholarship Programme**
-- 📘 Currently mastering **JavaScript**, moving into **PHP + MySQL**
-- 🎯 Goal: Become a proficient Full-Stack Developer & share knowledge
-- 🤝 Open to collaborations on impactful web-based projects
-- 🧠 Building technical solutions inspired by real-life experiences and practical challenges. <br><br>
+💻 Web Application Development trainee at **IDB-BISEW IT Scholarship Programme**
+📘 Currently mastering **JavaScript**, moving into **PHP + MySQL**
+🎯 Goal: Become a proficient Full-Stack Developer & share knowledge
+🤝 Open to collaborations on impactful web-based projects
+🧠 Building technical solutions inspired by real-life experiences and practical challenges. <br><br>
 
 ## 💼 Tech Stack <br><br>
 
