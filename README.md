@@ -112,8 +112,8 @@
 
 ## 📫 Connect With Me <br>
 
-- 📧 Email: [your_email@example.com](mailto:your_email@example.com)
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 📧 Email: [hmojammel29@gmail.com](mailto:hmojammel29@gmail.com)
+- 🔗 LinkedIn: [https://www.linkedin.com/in/mozammel29/](https://www.linkedin.com/in/mozammel29/)
 - 🌐 Portfolio: [mozammelhaq.github.io](https://mozammelhaq.github.io) *(coming soon)*
 
 
