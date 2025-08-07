@@ -9,7 +9,7 @@
 - 📘 Currently mastering **JavaScript**, moving into **PHP + MySQL**
 - 🎯 Goal: Become a proficient Full-Stack Developer & share knowledge
 - 🤝 Open to collaborations on impactful web-based projects
-- 🧠 Passionate about merging scientific understanding and technical skills <br><br>
+- 🧠 Building technical solutions inspired by real-life experiences and practical challenges. <br><br>
 
 ## 💼 Tech Stack <br><br>
 
