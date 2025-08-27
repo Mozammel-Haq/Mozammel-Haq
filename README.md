@@ -4,6 +4,7 @@
 
 
 ## 👨‍💻 About Me <br><br>
+![Visitor Count](https://komarev.com/ghpvc/?username=Mozammel-Haq&color=blue)
 
 - 💻 Web Application Development trainee at **IDB-BISEW IT Scholarship Programme**
 - 📘 Currently mastering **JavaScript**, moving into **PHP + MySQL**
