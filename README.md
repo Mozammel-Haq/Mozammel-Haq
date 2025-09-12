@@ -100,11 +100,11 @@
 ## 📈 GitHub Stats <br><br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MozammelHaq&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mozammel-Haq&show_icons=true&theme=tokyonight" alt="stats" />
   <br>
 
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MozammelHaq&layout=compact&theme=tokyonight" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mozammel-Haq&layout=compact&theme=tokyonight" alt="langs" />
   <br>
 </p>
 
