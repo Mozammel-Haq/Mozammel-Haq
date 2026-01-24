@@ -15,7 +15,7 @@
 Full Stack Web Developer with **1+ year of professional experience** delivering scalable, production-ready web applications. Strong focus on backend architecture, clean code, and business-driven solutions.
 
 - IsDB-BISEW Graduate (788 hours intensive industry training)
-- Experience in enterprise and ERP-grade systems
+- Experience in E-commerce, HMS and ERP-grade systems
 - Strong foundation in PHP, Laravel, MySQL, React
 - Emphasis on maintainability, performance, and security
 - Based in Dhaka, Bangladesh
