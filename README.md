@@ -17,7 +17,7 @@
 I'm a dedicated Full Stack Developer with over a year of professional experience building scalable web applications that solve real business problems. I love working on backend architecture, writing clean maintainable code, and turning complex requirements into elegant solutions.
 
 **🎓 IsDB-BISEW Graduate** – Completed 788 hours of intensive industry training  
-**💼 What I Build:** E-commerce platforms, Healthcare ERP systems, Enterprise applications  
+**💼 What I Build:** E-commerce platforms, ERP systems, Enterprise applications, Custom Web Applications  
 **🛠️ My Stack:** PHP, Laravel, React, MySQL, Vue.js  
 **📍 Based in:** Dhaka, Bangladesh
 
@@ -31,7 +31,7 @@ I'm a dedicated Full Stack Developer with over a year of professional experience
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mozammel29/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](http://mozammel.intelsofts.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hmojammel29@gmail.com)
-[![Phone](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+8801799007398)
+[![Phone](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/8801799007398)
 
 </td>
 </tr>
@@ -170,7 +170,7 @@ Here are some of the projects I'm most proud of. Each one taught me something va
 **Full-Stack ERP Solution for Inventory & Sales Management**
 
 [![Source Code](https://img.shields.io/badge/Code-Available-blue?style=flat&logo=github)](https://github.com/Mozammel-Haq)
-[![Live Demo](https://img.shields.io/badge/Demo-Private-red?style=flat)](https://github.com/Mozammel-Haq)
+[![Live Demo](https://img.shields.io/badge/Demo-Private-red?style=flat)](http://mozammel.intelsofts.com/skytech)
 
 ```
 Tech: React.js • Core PHP • MySQL • Tailwind CSS
@@ -194,7 +194,7 @@ I built this complete e-commerce platform from scratch, focusing on making inven
 **Complete Healthcare Solution for Multiple Facilities**
 
 [![Source Code](https://img.shields.io/badge/Code-Available-blue?style=flat&logo=github)](https://github.com/Mozammel-Haq)
-[![Architecture](https://img.shields.io/badge/Multi--Tenant-SaaS-green?style=flat)](https://github.com/Mozammel-Haq)
+[![Architecture](https://img.shields.io/badge/Multi--Tenant-SaaS-green?style=flat)](http://mozammel.intelsofts.com/skytech)
 
 ```
 Tech: Laravel • MySQL • jQuery • Bootstrap
@@ -219,7 +219,7 @@ This was a challenging project where I built a multi-tenant SaaS application tha
 **Real-Time Point of Sale Solution**
 
 [![Source Code](https://img.shields.io/badge/Code-Available-blue?style=flat&logo=github)](https://github.com/Mozammel-Haq)
-[![Demo](https://img.shields.io/badge/Demo-Available-orange?style=flat)](https://github.com/Mozammel-Haq)
+[![Demo](https://img.shields.io/badge/Demo-Available-orange?style=flat)](http://mozammel.intelsofts.com/pos)
 
 ```
 Tech: Core PHP • Intellect Framework • ApexCharts • Bootstrap
@@ -240,7 +240,7 @@ A lightweight but powerful POS system I built for small to medium retail stores.
 **Visual Tool for Building Custom REST APIs**
 
 [![Source Code](https://img.shields.io/badge/Code-Available-blue?style=flat&logo=github)](https://github.com/Mozammel-Haq)
-[![Docs](https://img.shields.io/badge/Documentation-Included-yellow?style=flat)](https://github.com/Mozammel-Haq)
+[![Docs](https://img.shields.io/badge/Documentation-Included-yellow?style=flat)](http://mozammel.intelsofts.com/plugin_wp)
 
 ```
 Tech: WordPress • PHP • REST API • JWT
@@ -258,8 +258,10 @@ Created this plugin to help developers build custom WordPress REST APIs without 
 ---
 
 ### 🌐 More Projects
+- **Hospital Frontend + Patient Portal** - The Patient portal and multipage landing site for the hms project (React, Laravel API-sanctum) 
 - **Alibaba Clone** - Pixel-perfect desktop clone with 7+ static pages (HTML5, CSS3)
-- **Personal Portfolio** - Animated portfolio site (React, Framer Motion, Tailwind)
+- **Pathao HomePage Clone** - Pixel-perfect desktop clone with 7+ static pages (HTML5, CSS3, BS5)
+- **Personal Portfolio** - Animated portfolio site (Next.js, Framer Motion, Tailwind)
 
 ---
 
@@ -347,7 +349,7 @@ Covered computer basics, operating systems, and fundamental IT concepts.
 ---
 
 #### Responsive Web Design Certification
-**freeCodeCamp** | [Verify Certificate](https://www.freecodecamp.org/certification)  
+**freeCodeCamp** | [Verify Certificate](https://www.freecodecamp.org/certification/fccf22e7370-3e20-4032-8df9-754e2af3d875/responsive-web-design)  
 Duration: **300 hours** | Completed: September 2023
 
 Comprehensive training in:
@@ -360,7 +362,7 @@ Comprehensive training in:
 ---
 
 #### Diploma in Application Development Using PHP and MySQL
-**Alison** | [Verify Certificate](https://alison.com/certification)  
+**Alison** | [Verify Certificate](https://alison.com/certification/print/52492453/21a00c6e67)  
 Duration: **17 hours** | Completed: September 2023
 
 Focused on:
