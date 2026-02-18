@@ -60,23 +60,6 @@ I'm passionate about continuous learning and always exploring new technologies t
 <tr>
 <td width="50%" valign="top">
 
-### Backend Development
-I work extensively with PHP and the Laravel ecosystem to build robust server-side applications.
-
-**Languages & Frameworks:**
-- PHP (OOP, MVC, Design Patterns)
-- Laravel (Eloquent ORM, Middleware, Queues, REST APIs)
-- Core PHP with custom frameworks
-
-**What I do:**
-- Build RESTful APIs for frontend consumption
-- Implement JWT-based authentication systems
-- Design scalable application architectures
-- Write clean, testable, maintainable code
-
-</td>
-<td width="50%" valign="top">
-
 ### Frontend Development
 I create responsive, user-friendly interfaces that work seamlessly across devices.
 
@@ -92,6 +75,23 @@ I create responsive, user-friendly interfaces that work seamlessly across device
 - Integrate with backend APIs
 - Implement responsive designs
 - Optimize frontend performance
+
+</td>
+<td width="50%" valign="top">
+
+### Backend Development
+I work extensively with PHP and the Laravel ecosystem to build robust server-side applications.
+
+**Languages & Frameworks:**
+- PHP (OOP, MVC, Design Patterns)
+- Laravel (Eloquent ORM, Middleware, Queues, REST APIs)
+- Core PHP with custom frameworks
+
+**What I do:**
+- Build RESTful APIs for frontend consumption
+- Implement JWT-based authentication systems
+- Design scalable application architectures
+- Write clean, testable, maintainable code
 
 </td>
 </tr>
