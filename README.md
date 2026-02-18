@@ -169,7 +169,7 @@ Here are some of the projects I'm most proud of. Each one taught me something va
 ### 🏪 Enterprise E-Commerce Platform
 **Full-Stack ERP Solution for Inventory & Sales Management**
 
-[![Source Code](https://img.shields.io/badge/Code-Available-blue?style=flat&logo=github)](https://github.com/Mozammel-Haq)
+[![Source Code](https://img.shields.io/badge/Code-Available-blue?style=flat&logo=github)](https://github.com/Mozammel-Haq/skytech_ecom)
 [![Live Demo](https://img.shields.io/badge/Demo-Private-red?style=flat)](http://mozammel.intelsofts.com/skytech)
 
 ```
@@ -193,8 +193,8 @@ I built this complete e-commerce platform from scratch, focusing on making inven
 ### 🏥 Hospital Management System (Multi-Tenant ERP)
 **Complete Healthcare Solution for Multiple Facilities**
 
-[![Source Code](https://img.shields.io/badge/Code-Available-blue?style=flat&logo=github)](https://github.com/Mozammel-Haq)
-[![Architecture](https://img.shields.io/badge/Multi--Tenant-SaaS-green?style=flat)](http://mozammel.intelsofts.com/skytech)
+[![Source Code](https://img.shields.io/badge/Code-Available-blue?style=flat&logo=github)](https://github.com/Mozammel-Haq/laravel-hms-skeleton)
+[![Architecture](https://img.shields.io/badge/Multi--Tenant-SaaS-green?style=flat)](http://mozammel.intelsofts.com/hms)
 
 ```
 Tech: Laravel • MySQL • jQuery • Bootstrap
@@ -218,7 +218,7 @@ This was a challenging project where I built a multi-tenant SaaS application tha
 ### 💰 POS & Store Management System
 **Real-Time Point of Sale Solution**
 
-[![Source Code](https://img.shields.io/badge/Code-Available-blue?style=flat&logo=github)](https://github.com/Mozammel-Haq)
+[![Source Code](https://img.shields.io/badge/Code-Available-blue?style=flat&logo=github)](https://github.com/Mozammel-Haq/SkyTech_Ecommerce)
 [![Demo](https://img.shields.io/badge/Demo-Available-orange?style=flat)](http://mozammel.intelsofts.com/pos)
 
 ```
@@ -239,7 +239,7 @@ A lightweight but powerful POS system I built for small to medium retail stores.
 ### 🔌 WordPress API Builder Plugin
 **Visual Tool for Building Custom REST APIs**
 
-[![Source Code](https://img.shields.io/badge/Code-Available-blue?style=flat&logo=github)](https://github.com/Mozammel-Haq)
+[![Source Code](https://img.shields.io/badge/Code-Available-blue?style=flat&logo=github)](https://github.com/Mozammel-Haq/wordpress-plugin-development)
 [![Docs](https://img.shields.io/badge/Documentation-Included-yellow?style=flat)](http://mozammel.intelsofts.com/plugin_wp)
 
 ```
