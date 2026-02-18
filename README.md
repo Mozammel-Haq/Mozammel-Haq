@@ -311,14 +311,6 @@ CGPA: **3.87 out of 4.00**
 Jagannath University, Dhaka | 2018-2021  
 CGPA: **3.72 out of 4.00**
 
-**Higher Secondary Certificate (Science)**  
-Dhaka Board | 2015-2017  
-GPA: **4.33 out of 5.00**
-
-**Secondary School Certificate (Science)**  
-Dhaka Board | 2010-2015  
-GPA: **5.00 out of 5.00**
-
 ---
 
 ### 🏆 Professional Certifications & Training
