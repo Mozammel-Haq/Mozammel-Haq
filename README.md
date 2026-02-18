@@ -44,11 +44,11 @@ I'm a dedicated Full Stack Developer with over a year of professional experience
 Currently working as a Junior Full Stack Web Developer at Intellect Software Limited, where I spend my days building enterprise-grade applications. I have over a year of hands-on experience developing everything from e-commerce platforms to healthcare management systems.
 
 **What I'm really good at:**
-- 🏗️ Building scalable backend systems that can handle real-world traffic
-- 🔐 Implementing secure authentication and authorization flows
-- 📊 Designing efficient database schemas and optimizing queries
-- 🤝 Working in Agile teams and collaborating on code reviews
-- 📝 Writing code that other developers can actually understand and maintain
+-  Building scalable backend systems that can handle real-world traffic
+-  Implementing secure authentication and authorization flows
+-  Designing efficient database schemas and optimizing queries
+-  Working in Agile teams and collaborating on code reviews
+-  Writing code that other developers can actually understand and maintain
 
 I'm passionate about continuous learning and always exploring new technologies to solve problems better.
 
@@ -204,12 +204,12 @@ Architecture: Multi-Tenant SaaS
 This was a challenging project where I built a multi-tenant SaaS application that multiple hospitals can use independently.
 
 **Core features:**
-- 🏥 Complete OPD/IPD patient management
-- 📅 Appointment scheduling with SMS notifications
-- 👥 Patient portal for viewing records and prescriptions
-- 💊 Digital prescription system integrated with pharmacy
-- 🧪 Laboratory test management and reporting
-- 📊 Advanced analytics and business reports
+- Complete OPD/IPD patient management
+- Appointment scheduling with SMS notifications
+- Patient portal for viewing records and prescriptions
+- Digital prescription system integrated with pharmacy
+- Laboratory test management and reporting
+- Advanced analytics and business reports
 
 **What I learned:** Multi-tenant architecture, complex database design, and healthcare workflow automation.
 
@@ -229,10 +229,10 @@ Focus: Real-time Processing & Analytics
 A lightweight but powerful POS system I built for small to medium retail stores.
 
 **Key features:**
-- ⚡ Fast real-time sales processing
-- 🔔 Smart inventory alerts when stock runs low
-- 📈 Beautiful analytics charts using ApexCharts
-- 📄 Automated invoice generation in PDF format
+- Fast real-time sales processing
+- Smart inventory alerts when stock runs low
+- Beautiful analytics charts using ApexCharts
+- Automated invoice generation in PDF format
 
 ---
 
@@ -250,18 +250,19 @@ Type: Developer Tool
 Created this plugin to help developers build custom WordPress REST APIs without writing repetitive code.
 
 **What it offers:**
-- 🎨 Visual interface for creating API endpoints
-- 🔐 Built-in JWT authentication
-- 🗄️ Database table and schema management tools
-- 📚 Automatic API documentation generation
+- Visual interface for creating API endpoints
+- Built-in JWT authentication
+- Database table and schema management tools
+- Automatic API documentation generation
 
 ---
 
 ### 🌐 More Projects
-- **Hospital Frontend + Patient Portal** - The Patient portal and multipage landing site for the hms project (React, Laravel API-sanctum) 
-- **Alibaba Clone** - Pixel-perfect desktop clone with 7+ static pages (HTML5, CSS3)
-- **Pathao HomePage Clone** - Pixel-perfect desktop clone with 7+ static pages (HTML5, CSS3, BS5)
-- **Personal Portfolio** - Animated portfolio site (Next.js, Framer Motion, Tailwind)
+- [**Hospital HRM**](http://mozammel.intelsofts.com/hrm) -The HRM dashboard completelyin sync with the hms project (Vue.js, Laravel API-sanctum) 
+- [**Hospital Frontend + Patient Portal**](http://mozammel.intelsofts.com/citycare) -The Patient portal and multipage landing site for the hms project (React, Laravel API-sanctum) 
+- [**Alibaba Clone **](http://mozammel.intelsofts.com/alibaba)  - Pixel-perfect desktop clone with 7+ static pages (HTML5, CSS3)
+- [**Pathao HomePage Clone**](http://mozammel.intelsofts.com/pathao)  - Pixel-perfect desktop clone with 7+ static pages (HTML5, CSS3, BS5)
+- [**View all Projects**](https://github.com/Mozammel-Haq?tab=repositories)
 
 ---
 
