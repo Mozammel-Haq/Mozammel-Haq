@@ -303,7 +303,7 @@ I'm currently working on building and maintaining enterprise web applications fo
 
 ### 📚 Academic Background
 
-**Master of Science in Psychology**  
+**Master of Science in Clinical & Counselling Psychology**  
 Jagannath University, Dhaka | 2021-2022  
 CGPA: **3.87 out of 4.00**
 
